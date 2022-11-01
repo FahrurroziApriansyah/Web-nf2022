@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(123, 216, 233);
+    font-family: 'Lucida Sans', Verdana, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: blueviolet;
+}
+
+p {
+    text-align: justify;
+    width: fit-content;
+}
+
+.center {
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+}
+
+.foto {
+    background-color: black;
+}
+
+.foto img{
+    width: 23%;
+}
+
+.promo {
+    color: red;
+    text-align: center;
+    font-size: 20px;
+}
+
+.cod {
+    margin: auto;
+    width: 50%;
+}
+
+.cod p {
+    background-color: aqua;
+    border: 5px solid red;
+    text-align: center;
+    font-weight: bold;
+    color: blue;
+}
